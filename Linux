@@ -12,10 +12,10 @@ clear
 rm -rf Docker-Ubuntu/*.sh
 rm -rf RDP/*.sh
 clear
-# bash OnlineHacKing/0.sh
+bash OnlineHacKing/1.sh
 rm -rf RDP.sh
 clear
-bash OnlineHacKing/1.sh
+bash OnlineHacKing/10.sh
 clear
 bash OnlineHacKing/Logo.sh
 bash ./KaliLinux.sh
